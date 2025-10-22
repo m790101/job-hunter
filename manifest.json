@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Job Hunter",
+  "version": "1.0",
+  "description": "Track job applications by saving job titles and links to Google Sheets",
+  "permissions": [
+    "storage",
+    "identity",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://sheets.googleapis.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "oauth2": {
+    "client_id": "334211620567-emt7e3jc3hcj9i99mfsgdj471lvi8gtl.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/spreadsheets"
+    ]
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
