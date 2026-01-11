@@ -2,10 +2,11 @@
 
 A Chrome extension that allows you to quickly save job titles and links directly to a Google Sheet.
 
-<video width="640" height="480" controls>
-  <source src="./demo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/a2992ef8-1d52-4c19-827a-ee51078192cf
+
+
 
 ## Features
 
